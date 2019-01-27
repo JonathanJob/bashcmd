@@ -2,4 +2,4 @@
 md <directory name>
 
 #remove directory
-rm -R s3performance
+rm -R <directory name>
